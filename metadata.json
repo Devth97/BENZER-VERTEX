@@ -1,0 +1,8 @@
+{
+  "name": "Copy of TailorPreview",
+  "description": "A production-ready platform for tailoring shops to generate photoreal customer previews using Gemini Nano Banana Pro models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
